@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Exercise Log",
+        "demoUrl": "http://exercises.lucasjensen.me",
+        "sourceName": "GitHub",
+        "sourceUrl": "https://github.com/ljensen505/exercise_mern_app",
+        "stack": "MERN"
+    },
+    {
+        "name": "FishTrak",
+        "demoUrl": "http://fishtrak.lucasjensen.me",
+        "sourceName": "GitHub",
+        "sourceUrl": "https://github.com/ljensen505/FishTrak",
+        "stack": "Flask + MySQL"
+    },
+    {
+        "name": "FishTrak2.0 API",
+        "demoUrl": "http://fishtrakapi.lucasjensen.me",
+        "sourceName": "GitHub",
+        "sourceUrl": "https://github.com/Jerrod3/FishTrak-2-Electric-Boogaloo-Back",
+        "stack": "FastAPI + MongoDB"
+    }
+]
