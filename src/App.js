@@ -12,24 +12,25 @@ const theme = createTheme({
 function App() {
   return (
     <div className="App">
-      <Container maxWidth='sm'>
-        <Typography theme={ theme } align='left' variant='h5'>Lucas Jensen</Typography>
-        <Typography align='left' variant='subtitle2'>Portfolio</Typography>
+      <Container maxWidth='md'>
+        <Typography theme={ theme } align='left' variant='h3'>Lucas Jensen</Typography>
+        <Typography align='left' variant='h5'>Portfolio</Typography>
       </Container>
 
-      <Container maxWidth='sm' align='center'>
+      <Container maxWidth='md' align='center'>
         <ProjectTable></ProjectTable>
       </Container>
       
       <Container sx={{ mt: 2 }} align='center' maxWidth='sm'>
         
-        <Typography align='left' variant='inherit'>
-        All projects hosted from my home using a Raspberry Pi 4 with NGINX. Data is persisted with local instances on MongoDB and MySQL.
+        <Typography align='left' theme={ theme }>
+        *indicates project is hosted from my home using a Raspberry Pi 4 with NGINX. Data is persisted with local instances on MongoDB and MySQL.
+        Cloud computing, from my living room.
         </Typography>
 
-        <Typography sx={{ mt: 2 }} align='left' variant='subtitle2'>Download Resume&nbsp;
+        <Typography theme={ theme } sx={{ mt: 2 }} align='left' variant='subtitle2'>Download Resume&nbsp;
           <Link style={{color: "coral"}} align='left' variant='subtitle2' href='JensenResume.pdf' download>
-            <DownloadIcon fontSize='sm'></DownloadIcon>
+            <DownloadIcon></DownloadIcon>
           </Link>
         </Typography>
       </Container>

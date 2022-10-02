@@ -1,6 +1,6 @@
-import '../App.css';
 import React from "react";
 import { Link, TableCell, TableRow } from "@mui/material";
+
 
 function ProjectItem({proj}) {
     return (

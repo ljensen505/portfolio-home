@@ -1,23 +1,37 @@
 [
     {
-        "name": "Exercise Log",
+        "name": "Portfolio Home*",
+        "demoUrl": "http://lucasjensen.me",
+        "sourceName": "GitHub",
+        "sourceUrl": "https://github.com/ljensen505/portfolio-home",
+        "stack": "React + MUI"
+    },
+    {
+        "name": "Exercise Log*",
         "demoUrl": "http://exercises.lucasjensen.me",
         "sourceName": "GitHub",
         "sourceUrl": "https://github.com/ljensen505/exercise_mern_app",
         "stack": "MERN"
     },
     {
-        "name": "FishTrak",
+        "name": "FishTrak*",
         "demoUrl": "http://fishtrak.lucasjensen.me",
         "sourceName": "GitHub",
         "sourceUrl": "https://github.com/ljensen505/FishTrak",
         "stack": "Flask + MySQL"
     },
     {
-        "name": "FishTrak2.0 API",
+        "name": "FishTrak2.0 API*",
         "demoUrl": "http://fishtrakapi.lucasjensen.me",
         "sourceName": "GitHub",
         "sourceUrl": "https://github.com/Jerrod3/FishTrak-2-Electric-Boogaloo-Back",
         "stack": "FastAPI + MongoDB"
+    },
+    {
+        "name": "Chess (video demo)",
+        "demoUrl": "https://youtu.be/y30Trim7Tio",
+        "sourceName": "GitHub",
+        "sourceUrl": "https://github.com/ljensen505/ChessPvP",
+        "stack": "Pygame + Pickling"
     }
 ]
