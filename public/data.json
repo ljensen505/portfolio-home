@@ -28,6 +28,13 @@
         "stack": "FastAPI + MongoDB"
     },
     {
+        "name": "BreadApp*",
+        "demoUrl": "http://bread.lucasjensen.me",
+        "sourceName": "GitHub",
+        "sourceUrl": "https://github.com/ljensen505/CS361-Portfolio-Project",
+        "stack": "Flask + JSON"
+    },
+    {
         "name": "Chess (video demo)",
         "demoUrl": "https://youtu.be/y30Trim7Tio",
         "sourceName": "GitHub",
