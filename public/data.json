@@ -35,7 +35,14 @@
         "stack": "Flask + JSON"
     },
     {
-        "name": "Chess (video demo)",
+        "name": "ChessAPI* (for ChessPvP)",
+        "demoUrl": "http://api.chess.lucasjensen.me",
+        "sourceName": "GitHub",
+        "sourceUrl": "https://github.com/ljensen505/ChessAPI",
+        "stack": "Flask"
+    },
+    {
+        "name": "ChessPvP (video demo)",
         "demoUrl": "https://youtu.be/y30Trim7Tio",
         "sourceName": "GitHub",
         "sourceUrl": "https://github.com/ljensen505/ChessPvP",
